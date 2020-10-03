@@ -1,3 +1,3 @@
 # Calculator
 
-![Screenshot](Screen.png)
+![Screenshot](Screen.png | width=100)
