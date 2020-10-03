@@ -1,3 +1,3 @@
 # Calculator
 
-![Screenshot](Screen.png  =250x250)
+![Screenshot]<img scr = "https://github.com/sherboo96/Calculator/blob/main/Screen.png" width="40%">
