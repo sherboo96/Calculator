@@ -1,3 +1,3 @@
 # Calculator
 
-![Screenshot](Screen.png  = 250x250)
+![Screenshot](Screen.png  =250x250)
